@@ -12,4 +12,6 @@ public class Car {
     public int getMaxSpeed() {  //method
         return maxSpeed;
     }
+
+
 }
