@@ -1,6 +1,4 @@
-package chapter5_Classes.practice;
-
-import java.util.Optional;
+package chapter5_Classes.practice.intersection;
 
 public class Line {
 

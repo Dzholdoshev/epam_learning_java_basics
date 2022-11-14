@@ -1,4 +1,4 @@
-package chapter5_Classes.practice;
+package chapter5_Classes.practice.intersection;
 
 public class Point {
     private final int x;
